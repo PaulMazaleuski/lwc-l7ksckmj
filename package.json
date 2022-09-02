@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/paulmazaleuski.lwc-l7ksckmj",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 9aqaIx0zfBT49fWigYd8 --open"
+  }
+}
